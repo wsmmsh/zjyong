@@ -7,6 +7,7 @@
 
 #央视频道
 #EXTINF:-1  tvg-name="CCTV1" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV1.png"  group-title="央视频道",CCTV1综合
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0.1
 https://tv-1.iill.top/migu/cctv1
 https://live.tv.darwinchow.com/channel/cctv1?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
