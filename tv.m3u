@@ -1,4 +1,4 @@
-#MMSH制作，更新于2025年9月3日 17:02:23。
+#MMSH制作，更新于2025年9月4日 10:47:44。
 #敬告：本源已绑定访问IP地址，请勿抄袭，否则会被永久禁用。
 
 #电视节目指南
@@ -32,8 +32,8 @@ https://tv-1.iill.top/migu/cctv5+
 https://live.tv.darwinchow.com/channel/cctv5p?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 
 #EXTINF:-1  tvg-name="CCTV6" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV6.png"  group-title="央视频道",CCTV6电影
-https://live.tv.darwinchow.com/channel/cctv6?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 https://tv-1.iill.top/migu/cctv6
+https://live.tv.darwinchow.com/channel/cctv6?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 
 #EXTINF:-1  tvg-name="CCTV7" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CCTV7.png"  group-title="央视频道",CCTV7国防军事
 https://tv-1.iill.top/migu/cctv7
@@ -460,38 +460,38 @@ https://mursor.ottiptv.cc/mcp/bintuan.m3u8
 https://live.tv.darwinchow.com/channel/bingtuanweishi?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 
 
-#体育与纪录频道
-#EXTINF:-1  tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="体育与纪录",五星体育
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0.1
-https://gdcucc.v1.mk/gdcucc/wxty.m3u8
-
-#EXTINF:-1  tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CHC影迷电影.png"  group-title="体育与纪录",CHC影迷电影
+#影视&体育&纪录
+#EXTINF:-1  tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CHC影迷电影.png"  group-title="影视&体育&纪录",CHC影迷电影
 https://tv-1.iill.top/migu/chcym
 https://live.tv.darwinchow.com/channel/chcyingmidianying?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 
-#EXTINF:-1  tvg-name="CHC动作电影" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CHC动作电影.png"  group-title="体育与纪录",CHC动作电影
+#EXTINF:-1  tvg-name="CHC动作电影" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CHC动作电影.png"  group-title="影视&体育&纪录",CHC动作电影
 https://tv-1.iill.top/migu/chcdz
 https://live.tv.darwinchow.com/channel/chcdongzuodianying?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 
-#EXTINF:-1  tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CHC家庭影院.png"  group-title="体育与纪录",CHC家庭影院
+#EXTINF:-1  tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/CHC家庭影院.png"  group-title="影视&体育&纪录",CHC家庭影院
 https://tv-1.iill.top/migu/chcjt
 https://live.tv.darwinchow.com/channel/chcjiatingyingyuan?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 
-#EXTINF:-1  tvg-name="求索纪录" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/求索纪录.png"  group-title="体育与纪录",求索纪录
+#EXTINF:-1  tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="影视&体育&纪录",五星体育
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.2.0.1
+https://gdcucc.v1.mk/gdcucc/wxty.m3u8
+
+#EXTINF:-1  tvg-name="求索纪录" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/求索纪录.png"  group-title="影视&体育&纪录",求索纪录
 https://live.tv.darwinchow.com/channel/qiusuojilu?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 
-#EXTINF:-1  tvg-name="四海钓鱼" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/四海钓鱼.png"  group-title="体育与纪录",四海钓鱼
+#EXTINF:-1  tvg-name="四海钓鱼" tvg-logo="https://gitee.com/zjdbk/logo/raw/master/img/四海钓鱼.png"  group-title="影视&体育&纪录",四海钓鱼
 https://tv-1.iill.top/migu/shdy
 https://live.tv.darwinchow.com/channel/sihaidiaoyu?livekey=01WXnVCfvoxLT5j683v2c0a8kXo1m3KSvtnQj&userkey=fe4c4d171c4efe50
 
 #以下体育与纪录频道无台标
-#EXTINF:-1 group-title="体育与纪录",新片放映
+#EXTINF:-1 group-title="影视&体育&纪录",新片放映
 https://tv-1.iill.top/migu/xpfy
-#EXTINF:-1 group-title="体育与纪录",高清大片
+#EXTINF:-1 group-title="影视&体育&纪录",高清大片
 https://tv-1.iill.top/migu/gqdp
-#EXTINF:-1 group-title="体育与纪录",抗战经典影片
+#EXTINF:-1 group-title="影视&体育&纪录",抗战经典影片
 https://tv-1.iill.top/migu/kzjd
-#EXTINF:-1 group-title="体育与纪录",红色轮播
+#EXTINF:-1 group-title="影视&体育&纪录",红色轮播
 https://tv-1.iill.top/migu/xssh
 
 
